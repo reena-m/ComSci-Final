@@ -1,7 +1,23 @@
 public class HappyJC
 {
+  private myHealth = 100;
+  private myAttack = 20;
+  private myDefense = 20;
+  private mySpeed = 20;
   public static void main(String[] args)
   {
-    
+  
+  }
+  public static void create()
+  {
+  
+  }
+  public static void punch()
+  {
+  
+  }
+  public static void block()
+  {
+  
   }
 }
