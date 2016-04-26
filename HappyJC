@@ -8,10 +8,6 @@ public class HappyJC
   {
   
   }
-  public static void create()
-  {
-  
-  }
   public static void punch()
   {
   
