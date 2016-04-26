@@ -1,4 +1,7 @@
 public class HappyJC
 {
-
+  public static void main(String[] args)
+  {
+    
+  }
 }
